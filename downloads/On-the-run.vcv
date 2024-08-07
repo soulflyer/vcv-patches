@@ -1,0 +1,572 @@
+{
+  "version": "0.3.2",
+  "modules": [
+    {
+      "plugin": "Core",
+      "model": "AudioInterface",
+      "pos": [
+        1170.0,
+        0.0
+      ],
+      "params": [],
+      "data": {
+        "deviceName": "Core Audio: Built-in Output (0 in, 2 out)",
+        "sampleRate": 48000.0,
+        "blockSize": 256
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Tides",
+      "pos": [
+        0.0,
+        0.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        -7.9200000762939453,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "mode": 1,
+        "range": 1
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "SEQ3",
+      "pos": [
+        270.0,
+        0.0
+      ],
+      "params": [
+        3.3560011386871338,
+        0.0,
+        0.0,
+        8.0,
+        0.0,
+        0.18000000715255737,
+        0.0,
+        0.0,
+        0.27000004053115845,
+        0.0,
+        0.0,
+        0.0,
+        0.41400003433227539,
+        0.0,
+        0.0,
+        0.0,
+        0.27000004053115845,
+        0.0,
+        0.0,
+        0.0,
+        0.83700025081634521,
+        2.2410011291503906,
+        0.0,
+        0.0,
+        0.67500013113021851,
+        0.0,
+        0.0,
+        0.0,
+        0.84600019454956055,
+        0.36900001764297485,
+        0.0,
+        0.0,
+        1.0260003805160522,
+        1.7910001277923584,
+        0.0,
+        0.0
+      ],
+      "data": {
+        "gates": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCO",
+      "pos": [
+        600.0,
+        0.0
+      ],
+      "params": [
+        0.0,
+        1.0,
+        -20.249980926513672,
+        0.0,
+        0.5,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCF",
+      "pos": [
+        750.0,
+        0.0
+      ],
+      "params": [
+        0.53799909353256226,
+        0.5,
+        0.68249917030334473,
+        0.28200078010559082,
+        0.19800001382827759
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Links",
+      "pos": [
+        210.0,
+        0.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Kinks",
+      "pos": [
+        870.0,
+        0.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCF",
+      "pos": [
+        990.0,
+        380.0
+      ],
+      "params": [
+        1.0,
+        0.4960000216960907,
+        0.54100006818771362,
+        -0.18400005996227264,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "ADSR",
+      "pos": [
+        930.0,
+        0.0
+      ],
+      "params": [
+        0.0,
+        0.34350025653839111,
+        0.0,
+        0.46250027418136597
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCA",
+      "pos": [
+        1110.0,
+        380.0
+      ],
+      "params": [
+        0.31949996948242188,
+        0.4349999725818634
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Links",
+      "pos": [
+        1050.0,
+        0.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Links",
+      "pos": [
+        1200.0,
+        380.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCA",
+      "pos": [
+        900.0,
+        380.0
+      ],
+      "params": [
+        0.87550002336502075,
+        0.8684999942779541
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Blinds",
+      "pos": [
+        720.0,
+        380.0
+      ],
+      "params": [
+        0.65499985218048096,
+        0.35199996829032898,
+        0.0,
+        0.0,
+        0.0050000748597085476,
+        0.013000119477510452,
+        1.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Tides",
+      "pos": [
+        0.0,
+        380.0
+      ],
+      "params": [
+        0.0,
+        0.0,
+        -46.847995758056641,
+        0.0,
+        0.0,
+        0.0,
+        -0.17100000381469727
+      ],
+      "data": {
+        "mode": 1,
+        "range": 2
+      }
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Shades",
+      "pos": [
+        360.0,
+        380.0
+      ],
+      "params": [
+        0.13649998605251312,
+        0.1425001323223114,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCO",
+      "pos": [
+        210.0,
+        380.0
+      ],
+      "params": [
+        1.0,
+        1.0,
+        -22.194000244140625,
+        0.0,
+        0.5,
+        0.22799995541572571,
+        0.0
+      ]
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCF",
+      "pos": [
+        450.0,
+        380.0
+      ],
+      "params": [
+        0.79849976301193237,
+        0.5,
+        0.17549990117549896,
+        0.11400047689676285,
+        0.55799984931945801
+      ]
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Links",
+      "pos": [
+        570.0,
+        380.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "AudibleInstruments",
+      "model": "Links",
+      "pos": [
+        1110.0,
+        0.0
+      ],
+      "params": []
+    },
+    {
+      "plugin": "Fundamental",
+      "model": "VCA",
+      "pos": [
+        630.0,
+        380.0
+      ],
+      "params": [
+        0.65399980545043945,
+        0.0
+      ]
+    }
+  ],
+  "wires": [
+    {
+      "outputModuleId": 3,
+      "outputId": 3,
+      "inputModuleId": 4,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 2,
+      "outputId": 1,
+      "inputModuleId": 3,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 1,
+      "outputId": 3,
+      "inputModuleId": 5,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 5,
+      "outputId": 0,
+      "inputModuleId": 2,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 7,
+      "outputId": 1,
+      "inputModuleId": 9,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 1,
+      "outputId": 0,
+      "inputModuleId": 5,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 5,
+      "outputId": 3,
+      "inputModuleId": 8,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 8,
+      "outputId": 0,
+      "inputModuleId": 10,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 10,
+      "outputId": 3,
+      "inputModuleId": 7,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 10,
+      "outputId": 4,
+      "inputModuleId": 9,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 2,
+      "outputId": 2,
+      "inputModuleId": 8,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 4,
+      "outputId": 0,
+      "inputModuleId": 11,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 9,
+      "outputId": 0,
+      "inputModuleId": 11,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 14,
+      "outputId": 2,
+      "inputModuleId": 18,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 13,
+      "outputId": 0,
+      "inputModuleId": 12,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 13,
+      "outputId": 1,
+      "inputModuleId": 12,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 6,
+      "outputId": 5,
+      "inputModuleId": 11,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 11,
+      "outputId": 1,
+      "inputModuleId": 7,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 11,
+      "outputId": 2,
+      "inputModuleId": 15,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 16,
+      "outputId": 2,
+      "inputModuleId": 15,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 15,
+      "outputId": 2,
+      "inputModuleId": 17,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 14,
+      "outputId": 3,
+      "inputModuleId": 16,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 5,
+      "outputId": 4,
+      "inputModuleId": 17,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 17,
+      "outputId": 0,
+      "inputModuleId": 18,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 18,
+      "outputId": 3,
+      "inputModuleId": 12,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 18,
+      "outputId": 4,
+      "inputModuleId": 12,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 12,
+      "outputId": 0,
+      "inputModuleId": 19,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 12,
+      "outputId": 1,
+      "inputModuleId": 19,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 11,
+      "outputId": 3,
+      "inputModuleId": 19,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 11,
+      "outputId": 4,
+      "inputModuleId": 19,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 19,
+      "outputId": 4,
+      "inputModuleId": 0,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 19,
+      "outputId": 5,
+      "inputModuleId": 0,
+      "inputId": 1
+    },
+    {
+      "outputModuleId": 20,
+      "outputId": 0,
+      "inputModuleId": 18,
+      "inputId": 3
+    },
+    {
+      "outputModuleId": 18,
+      "outputId": 0,
+      "inputModuleId": 13,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 18,
+      "outputId": 5,
+      "inputModuleId": 4,
+      "inputId": 0
+    },
+    {
+      "outputModuleId": 1,
+      "outputId": 2,
+      "inputModuleId": 20,
+      "inputId": 5
+    },
+    {
+      "outputModuleId": 20,
+      "outputId": 1,
+      "inputModuleId": 18,
+      "inputId": 4
+    },
+    {
+      "outputModuleId": 18,
+      "outputId": 1,
+      "inputModuleId": 20,
+      "inputId": 2
+    },
+    {
+      "outputModuleId": 14,
+      "outputId": 1,
+      "inputModuleId": 20,
+      "inputId": 4
+    }
+  ]
+}
